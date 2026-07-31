@@ -1,1 +1,2 @@
-hi welcome to git
+hi welcome to git and GitHub lab
+
